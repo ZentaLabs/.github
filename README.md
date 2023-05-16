@@ -17,14 +17,15 @@
 
 <h2 align="center">AIstronaut Demo</h2>
 
-<a href="https://www.canva.com/design/DAFjG1c-Qbw/7S3dVffqsDy-RUlsO0s7Ww/watch?utm_content=DAFjG1c-Qbw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" rel="noopener">
-  <img src="https://github.com/ZentaLabs/.github/raw/main/AIstronaut.png" alt="AIstronaut Demo" style="display: block; margin: 0 auto;">
-</a>
-
-<p align="center">
-  Click on the image to watch the AIstronaut Demo.
-</p>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZentaLabs/.github/raw/main/Aistronaut-black.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZentaLabs/.github/raw/main/Aistronaut-white.gif">
+    <a href="https://www.canva.com/design/DAFjG1c-Qbw/7S3dVffqsDy-RUlsO0s7Ww/watch?utm_content=DAFjG1c-Qbw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" rel="noopener">
+      <img alt="AIstronaut Demo" src="https://github.com/ZentaLabs/.github/raw/main/Aistronaut-white.gif">
+    </a>
+  </picture>
+</div>
 
 
 
