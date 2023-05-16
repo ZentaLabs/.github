@@ -14,7 +14,7 @@
 <h2 align="center">🤖 AIstronaut Demo 🎥</h2>
 
 <div align="center">
-  <a href="https://www.canva.com/design/DAFjG1c-Qbw/7S3dVffqsDy-RUlsO0s7Ww/watch?utm_content=DAFjG1c-Qbw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" rel="noopener">
+  <a href="https://www.canva.com/design/DAFgFNiKdeM/YiQ_IOYmrnHL_kByybviTA/watch?utm_content=DAFgFNiKdeM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" rel="noopener">
     <img alt="AIstronaut Demo" src="https://github.com/ZentaLabs/.github/raw/main/Aistronaut-white.gif">
   </a>
 </div>
