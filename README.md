@@ -17,9 +17,14 @@
 
 <h2 align="center">AIstronaut Demo</h2>
 
+<a href="https://www.canva.com/design/DAFjG1c-Qbw/7S3dVffqsDy-RUlsO0s7Ww/watch?utm_content=DAFjG1c-Qbw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" rel="noopener">
+  <img src="https://github.com/ZentaLabs/.github/raw/main/AIstronaut.png" alt="AIstronaut Demo" style="display: block; margin: 0 auto;">
+</a>
+
 <p align="center">
-  Watch the AIstronaut Demo on Canva: <a href="https://www.canva.com/design/DAFjG1c-Qbw/7S3dVffqsDy-RUlsO0s7Ww/watch?utm_content=DAFjG1c-Qbw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" rel="noopener">Click here</a>.
+  Click on the image to watch the AIstronaut Demo.
 </p>
+
 
 
 
@@ -34,5 +39,5 @@ With AIstronaut's sophisticated linguistic AI orchestrator, we have created a gr
 ---
 
 <p align="center">
-  &copy; 2023 ZENTA. All rights reserved. | [Website](https://zenta.solutions) |
+  &copy; 2023 ZENTA. All rights reserved. | <a href="https://zenta.solutions">Website</a> |
 </p>
